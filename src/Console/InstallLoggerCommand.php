@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace MJR\DatabaseLogger\Console;
+namespace Jeromereyta\DatabaseLogger\Console;
 
 use Illuminate\Console\Command;
 use Illuminate\Filesystem\Filesystem;

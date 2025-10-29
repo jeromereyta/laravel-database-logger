@@ -1,11 +1,11 @@
 {
-  "name": "MJR/laravel-database-logger",
+  "name": "jeromereyta/laravel-database-logger",
   "description": "A flexible Laravel 12+ database logger with customizable columns and table name.",
   "type": "library",
   "license": "MIT",
   "autoload": {
     "psr-4": {
-      "MJR\\DatabaseLogger\\": "src/"
+      "Jeromereyta\\DatabaseLogger\\": "src/"
     }
   },
   "require": {
@@ -15,7 +15,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "MJR\\DatabaseLogger\\DatabaseLoggerServiceProvider"
+        "Jeromereyta\\DatabaseLogger\\DatabaseLoggerServiceProvider"
       ]
     }
   },

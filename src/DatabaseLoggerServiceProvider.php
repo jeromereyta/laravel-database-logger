@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace MJR\DatabaseLogger;
+namespace Jeromereyta\DatabaseLogger;
 
 use Illuminate\Support\ServiceProvider;
 use MarkJerome\DatabaseLogger\Console\InstallLoggerCommand;
